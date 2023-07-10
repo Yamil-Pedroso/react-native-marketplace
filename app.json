@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pronef",
-    "slug": "pronef",
+    "name": "react native marketplace",
+    "slug": "react-native-marketplace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
